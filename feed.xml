@@ -4,10 +4,10 @@
     <title>Tom Yang's Creative Factory</title>
     <description>Full-stack Web Developer! Just a freshman in the field, One day I will become someone!
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 30 Oct 2016 15:09:25 -0400</pubDate>
-    <lastBuildDate>Sun, 30 Oct 2016 15:09:25 -0400</lastBuildDate>
+    <link>http://TomYang1993.github.io/</link>
+    <atom:link href="http://TomYang1993.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 04 Nov 2016 00:25:38 -0400</pubDate>
+    <lastBuildDate>Fri, 04 Nov 2016 00:25:38 -0400</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
@@ -66,8 +66,8 @@ Normally, we set up flash message in the &lt;code class=&quot;highlighter-rouge&
 
 </description>
         <pubDate>Mon, 22 Aug 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2016/08/22/Cookies&Sessions&Flash.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/08/22/Cookies&Sessions&Flash.html</guid>
+        <link>http://TomYang1993.github.io/2016/08/22/Cookies&Sessions&Flash.html</link>
+        <guid isPermaLink="true">http://TomYang1993.github.io/2016/08/22/Cookies&Sessions&Flash.html</guid>
         
         
       </item>
@@ -124,7 +124,7 @@ Normally, we set up flash message in the &lt;code class=&quot;highlighter-rouge&
 
 &lt;p&gt;&lt;strong&gt;Now I have two users!&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Screen Shot 2016-08-19 at 10.27.09 PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/0818Sessions/1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Now we have to make sure when a user log in, his info will be saved and used until the user log out. First, we set the route and create a session controller.&lt;/strong&gt;&lt;/p&gt;
 
@@ -174,8 +174,8 @@ Normally, we set up flash message in the &lt;code class=&quot;highlighter-rouge&
 &lt;p&gt;&lt;strong&gt;Then you are free to use current_user in the view or in the controller and don’t have to worry about web requests take away the values of the variables!&lt;/strong&gt;je&lt;/p&gt;
 </description>
         <pubDate>Thu, 18 Aug 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2016/08/18/sessions.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/08/18/sessions.html</guid>
+        <link>http://TomYang1993.github.io/2016/08/18/sessions.html</link>
+        <guid isPermaLink="true">http://TomYang1993.github.io/2016/08/18/sessions.html</guid>
         
         
       </item>
@@ -199,7 +199,7 @@ Normally, we set up flash message in the &lt;code class=&quot;highlighter-rouge&
 
 &lt;p&gt;look what happened to your browser!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Screen Shot 2016-08-13 at 2.54.48 PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/0813Intro_Html/1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;It is the begin of the magic ! I won’t spend time on the grammar or vocabulary. So I will show you part of my code and it is easy to understand if you scan through the tutorial in &lt;a href=&quot;http://www.w3schools.com/html/default.asp&quot;&gt;w3schools&lt;/a&gt;.&lt;/p&gt;
 
@@ -327,13 +327,13 @@ There are tons of other similar softwares like Markdown, but main features of th
 
 &lt;p&gt;Below is the html without the css.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Screen Shot 2016-08-13 at 3.27.42 PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/0813Intro_Html/2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Here is the html with makeups!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Screen Shot 2016-08-13 at 3.29.17 PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/0813Intro_Html/3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Screen Shot 2016-08-13 at 3.29.39 PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/0813Intro_Html/4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;How does this magic work? Still a bunch of codes.&lt;/p&gt;
 
@@ -459,13 +459,13 @@ Check out the &lt;a href=&quot;http://www.w3schools.com/css/default.asp&quot;&gt
 &lt;p&gt;For example, &lt;a href=&quot;http://getbootstrap.com/&quot;&gt;&lt;strong&gt;Bootstrap&lt;/strong&gt;&lt;/a&gt;!
 It’s just like an online store for the styles you want to apply for your website or project.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Screen Shot 2016-08-13 at 3.43.37 PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/0813Intro_Html/5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I will not dig in, it’s your turn now!&lt;/p&gt;
 </description>
         <pubDate>Sat, 13 Aug 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2016/08/13/Intro-to-Html-&-Css.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/08/13/Intro-to-Html-&-Css.html</guid>
+        <link>http://TomYang1993.github.io/2016/08/13/Intro-to-Html-&-Css.html</link>
+        <guid isPermaLink="true">http://TomYang1993.github.io/2016/08/13/Intro-to-Html-&-Css.html</guid>
         
         
       </item>
@@ -647,8 +647,8 @@ should be initialized to give attributes values and gain access to attributes.&l
 &lt;p&gt;So now you don’t have to worry about the type or order of the arguments.&lt;/p&gt;
 </description>
         <pubDate>Sat, 06 Aug 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2016/08/06/Basic-Construction-of-a-class.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/08/06/Basic-Construction-of-a-class.html</guid>
+        <link>http://TomYang1993.github.io/2016/08/06/Basic-Construction-of-a-class.html</link>
+        <guid isPermaLink="true">http://TomYang1993.github.io/2016/08/06/Basic-Construction-of-a-class.html</guid>
         
         
       </item>
@@ -715,33 +715,33 @@ Check my “Terminal is your friend !” post for the terminal commands.&lt;/p&g
 
 &lt;p&gt;Firstly, we create a file inside our test directory.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Screen Shot 2016-07-28 at 1.12.00 PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/0725Git_and_Github/1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Then, we &lt;code class=&quot;highlighter-rouge&quot;&gt;git init&lt;/code&gt; in the directory, and we get an empty repository. &lt;code class=&quot;highlighter-rouge&quot;&gt;git add --all&lt;/code&gt; will add these changes to the empty repository because we have a &lt;code class=&quot;highlighter-rouge&quot;&gt;test.rb&lt;/code&gt; now. &lt;code class=&quot;highlighter-rouge&quot;&gt;git commit -m &quot;first try&quot;&lt;/code&gt; will refresh git repository and change permanently.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Screen Shot 2016-07-28 at 1.13.00 PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/0725Git_and_Github/2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Now we have taken care of the local part. Let’s go online !&lt;/p&gt;
 
 &lt;p&gt;Firstly, we will create a new repository on the github page.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Screen Shot 2016-07-28 at 1.14.09 PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/0725Git_and_Github/3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Screen Shot 2016-07-28 at 1.14.26 PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/0725Git_and_Github/4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Then we get the page that set up the repository. &lt;code class=&quot;highlighter-rouge&quot;&gt;git remote add origin&lt;/code&gt; means that Github will give you a path to connect your local directory or project to the online hosting service, then from now on your local directory will know where to find the online hosting service. &lt;code class=&quot;highlighter-rouge&quot;&gt;git push -u origin master&lt;/code&gt; means you can push your local repository online !&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Screen Shot 2016-07-28 at 1.14.38 PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/0725Git_and_Github/5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Screen Shot 2016-07-28 at 1.16.59 PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/0725Git_and_Github/6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Refresh ! And you can see your whole new repository !&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Screen Shot 2016-07-28 at 1.17.16 PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/0725Git_and_Github/7.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 25 Jul 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2016/07/25/Git-and-Github.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/07/25/Git-and-Github.html</guid>
+        <link>http://TomYang1993.github.io/2016/07/25/Git-and-Github.html</link>
+        <guid isPermaLink="true">http://TomYang1993.github.io/2016/07/25/Git-and-Github.html</guid>
         
         
       </item>
@@ -894,28 +894,28 @@ root directory and home directory, then you will see the difference between the 
 &lt;p&gt;&lt;strong&gt;G&lt;/strong&gt;o to your terminal and set your preference!!
 There is a &lt;a href=&quot;http://osxdaily.com/2013/02/05/improve-terminal-appearance-mac-os-x/&quot;&gt;link&lt;/a&gt; for your reference. There are more tutorials which are easy to get.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Screen Shot 2016-07-21 at 1.08.03 PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/0720terminal_is_your_friend/1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;change--bashproflie&quot;&gt;Change  &lt;code class=&quot;highlighter-rouge&quot;&gt;.bash_proflie&lt;/code&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;Y&lt;/strong&gt;ou can simply find and echo this file using what have been mentioned above. It is a hidden file in the home directory, if it does not exist, you can just create one also using what have been mentioned above. There are so many settings and you can explore yourself, following is an example for you to better understand how to manipulate with &lt;code class=&quot;highlighter-rouge&quot;&gt;.bash_proflie&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;G&lt;/strong&gt;o to your terminal, find your bash file, open it with nano.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Screen Shot 2016-07-21 at 1.43.03 PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/0720terminal_is_your_friend/2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;A&lt;/strong&gt;dd a line into the file. &lt;code class=&quot;highlighter-rouge&quot;&gt;export PS1=&quot; [\u] \w💩 $ &quot;&lt;/code&gt;, it will show the difference.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Screen Shot 2016-07-21 at 1.57.10 PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/0720terminal_is_your_friend/3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;W&lt;/strong&gt;e Got it!!!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Screen Shot 2016-07-21 at 1.57.30 PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/0720terminal_is_your_friend/4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;You may be wondering how can I put a poop inside, check the &lt;a href=&quot;http://osxdaily.com/2013/04/08/add-emoji-command-line-bash-prompt/&quot;&gt;link&lt;/a&gt;!!!&lt;/p&gt;
 </description>
         <pubDate>Wed, 20 Jul 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2016/07/20/Terminal-is-your-friend.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/07/20/Terminal-is-your-friend.html</guid>
+        <link>http://TomYang1993.github.io/2016/07/20/Terminal-is-your-friend.html</link>
+        <guid isPermaLink="true">http://TomYang1993.github.io/2016/07/20/Terminal-is-your-friend.html</guid>
         
         
       </item>
@@ -999,8 +999,8 @@ Lucky enough, you can see your page now!!!&lt;/p&gt;
 &lt;p&gt;Now you can see a empty page(not completely empty, should have some default appearances), so how can we post? Wait until my next post!&lt;/p&gt;
 </description>
         <pubDate>Sat, 16 Jul 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2016/07/16/jekyll-Starter-Kit.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/07/16/jekyll-Starter-Kit.html</guid>
+        <link>http://TomYang1993.github.io/2016/07/16/jekyll-Starter-Kit.html</link>
+        <guid isPermaLink="true">http://TomYang1993.github.io/2016/07/16/jekyll-Starter-Kit.html</guid>
         
         
       </item>
@@ -1023,8 +1023,8 @@ Lucky enough, you can see your page now!!!&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 12 Jul 2016 13:23:16 -0400</pubDate>
-        <link>http://localhost:4000/jekyll/update/2016/07/12/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2016/07/12/welcome-to-jekyll.html</guid>
+        <link>http://TomYang1993.github.io/jekyll/update/2016/07/12/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://TomYang1993.github.io/jekyll/update/2016/07/12/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
