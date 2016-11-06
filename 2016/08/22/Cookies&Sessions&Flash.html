@@ -144,14 +144,14 @@
 
 
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <div class="container">
+    <header class="post-header" style="padding-top:80px;">
+      <h1 class="post-title" itemprop="name headline">Flashes (sessions cont.)</h1>
+      <p class="post-meta"><time datetime="2016-08-22T00:00:00-04:00" itemprop="datePublished">Aug 22, 2016</time></p>
+    </header>
 
-  <header class="post-header" style="padding-top:80px;">
-    <h1 class="post-title" itemprop="name headline">Flashes (sessions cont.)</h1>
-    <p class="post-meta"><time datetime="2016-08-22T00:00:00-04:00" itemprop="datePublished">Aug 22, 2016</time></p>
-  </header>
-
-  <div class="post-content" itemprop="articleBody" >
-    <h2 id="cookies">Cookies</h2>
+    <div class="post-content" itemprop="articleBody" >
+      <h2 id="cookies">Cookies</h2>
 <p>In last post, we have talked about how to keep data between requests, but not clear about<br />
   the relationship between cookies and sessions. Cookies are key-value data pairs that are stored in the user’s browser until they reach their specified expiration date. Cookie can be interpreted as a special hash. It is attached on every web request and carries on mostly user’s info.</p>
 
@@ -204,7 +204,9 @@ Normally, we set up flash message in the <code class="highlighter-rouge">applica
 <figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"> <span class="n">flash</span><span class="p">[</span><span class="ss">:danger</span><span class="p">]</span> <span class="o">=</span> <span class="vi">@product</span><span class="p">.</span><span class="nf">errors</span><span class="p">.</span><span class="nf">full_messages</span></code></pre></figure>
 
 
+    </div>
   </div>
+
 
 </article>
 
