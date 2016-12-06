@@ -6,8 +6,8 @@
 </description>
     <link>http://TomYang1993.github.io/</link>
     <atom:link href="http://TomYang1993.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Nov 2016 20:18:21 -0500</pubDate>
-    <lastBuildDate>Sun, 06 Nov 2016 20:18:21 -0500</lastBuildDate>
+    <pubDate>Tue, 06 Dec 2016 16:09:45 -0500</pubDate>
+    <lastBuildDate>Tue, 06 Dec 2016 16:09:45 -0500</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
@@ -124,7 +124,7 @@ Normally, we set up flash message in the &lt;code class=&quot;highlighter-rouge&
 
 &lt;p&gt;&lt;strong&gt;Now I have two users!&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/0818Sessions/1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/image/0818Sessions/1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Now we have to make sure when a user log in, his info will be saved and used until the user log out. First, we set the route and create a session controller.&lt;/strong&gt;&lt;/p&gt;
 
@@ -199,7 +199,7 @@ Normally, we set up flash message in the &lt;code class=&quot;highlighter-rouge&
 
 &lt;p&gt;look what happened to your browser!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/0813Intro_Html/1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/image/0813Intro_Html/1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;It is the begin of the magic ! I won’t spend time on the grammar or vocabulary. So I will show you part of my code and it is easy to understand if you scan through the tutorial in &lt;a href=&quot;http://www.w3schools.com/html/default.asp&quot;&gt;w3schools&lt;/a&gt;.&lt;/p&gt;
 
@@ -327,13 +327,13 @@ There are tons of other similar softwares like Markdown, but main features of th
 
 &lt;p&gt;Below is the html without the css.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/0813Intro_Html/2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/image/0813Intro_Html/2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Here is the html with makeups!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/0813Intro_Html/3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/image/0813Intro_Html/3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/0813Intro_Html/4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/image/0813Intro_Html/4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;How does this magic work? Still a bunch of codes.&lt;/p&gt;
 
@@ -459,7 +459,7 @@ Check out the &lt;a href=&quot;http://www.w3schools.com/css/default.asp&quot;&gt
 &lt;p&gt;For example, &lt;a href=&quot;http://getbootstrap.com/&quot;&gt;&lt;strong&gt;Bootstrap&lt;/strong&gt;&lt;/a&gt;!
 It’s just like an online store for the styles you want to apply for your website or project.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/0813Intro_Html/5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/image/0813Intro_Html/5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I will not dig in, it’s your turn now!&lt;/p&gt;
 </description>
@@ -715,29 +715,29 @@ Check my “Terminal is your friend !” post for the terminal commands.&lt;/p&g
 
 &lt;p&gt;Firstly, we create a file inside our test directory.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/0725Git_and_Github/1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/image/0725Git_and_Github/1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Then, we &lt;code class=&quot;highlighter-rouge&quot;&gt;git init&lt;/code&gt; in the directory, and we get an empty repository. &lt;code class=&quot;highlighter-rouge&quot;&gt;git add --all&lt;/code&gt; will add these changes to the empty repository because we have a &lt;code class=&quot;highlighter-rouge&quot;&gt;test.rb&lt;/code&gt; now. &lt;code class=&quot;highlighter-rouge&quot;&gt;git commit -m &quot;first try&quot;&lt;/code&gt; will refresh git repository and change permanently.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/0725Git_and_Github/2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/image/0725Git_and_Github/2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Now we have taken care of the local part. Let’s go online !&lt;/p&gt;
 
 &lt;p&gt;Firstly, we will create a new repository on the github page.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/0725Git_and_Github/3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/image/0725Git_and_Github/3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/0725Git_and_Github/4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/image/0725Git_and_Github/4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Then we get the page that set up the repository. &lt;code class=&quot;highlighter-rouge&quot;&gt;git remote add origin&lt;/code&gt; means that Github will give you a path to connect your local directory or project to the online hosting service, then from now on your local directory will know where to find the online hosting service. &lt;code class=&quot;highlighter-rouge&quot;&gt;git push -u origin master&lt;/code&gt; means you can push your local repository online !&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/0725Git_and_Github/5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/image/0725Git_and_Github/5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/0725Git_and_Github/6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/image/0725Git_and_Github/6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Refresh ! And you can see your whole new repository !&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/0725Git_and_Github/7.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/image/0725Git_and_Github/7.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 25 Jul 2016 00:00:00 -0400</pubDate>
         <link>http://TomYang1993.github.io/2016/07/25/Git-and-Github.html</link>
@@ -894,22 +894,22 @@ root directory and home directory, then you will see the difference between the 
 &lt;p&gt;&lt;strong&gt;G&lt;/strong&gt;o to your terminal and set your preference!!
 There is a &lt;a href=&quot;http://osxdaily.com/2013/02/05/improve-terminal-appearance-mac-os-x/&quot;&gt;link&lt;/a&gt; for your reference. There are more tutorials which are easy to get.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/0720terminal_is_your_friend/1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/image/0720terminal_is_your_friend/1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;change--bashproflie&quot;&gt;Change  &lt;code class=&quot;highlighter-rouge&quot;&gt;.bash_proflie&lt;/code&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;Y&lt;/strong&gt;ou can simply find and echo this file using what have been mentioned above. It is a hidden file in the home directory, if it does not exist, you can just create one also using what have been mentioned above. There are so many settings and you can explore yourself, following is an example for you to better understand how to manipulate with &lt;code class=&quot;highlighter-rouge&quot;&gt;.bash_proflie&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;G&lt;/strong&gt;o to your terminal, find your bash file, open it with nano.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/0720terminal_is_your_friend/2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/image/0720terminal_is_your_friend/2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;A&lt;/strong&gt;dd a line into the file. &lt;code class=&quot;highlighter-rouge&quot;&gt;export PS1=&quot; [\u] \w💩 $ &quot;&lt;/code&gt;, it will show the difference.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/0720terminal_is_your_friend/3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/image/0720terminal_is_your_friend/3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;W&lt;/strong&gt;e Got it!!!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/0720terminal_is_your_friend/4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/image/0720terminal_is_your_friend/4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;You may be wondering how can I put a poop inside, check the &lt;a href=&quot;http://osxdaily.com/2013/04/08/add-emoji-command-line-bash-prompt/&quot;&gt;link&lt;/a&gt;!!!&lt;/p&gt;
 </description>
