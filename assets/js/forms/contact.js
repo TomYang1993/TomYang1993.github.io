@@ -62,7 +62,7 @@ var ContactForm = function () {
 	                    {
 	                        $('#sky-form3 button[type="submit"]').attr('disabled', true);
 	                    },
-	                    error: function()
+	                    function()
 	                    {
 	                        $("#sky-form3").addClass('submited');
 	                    }
