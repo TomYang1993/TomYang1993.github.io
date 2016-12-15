@@ -11,7 +11,7 @@
   	<meta name="author" content="">
 
   	<!-- Favicon -->
-  	<link rel="shortcut icon" href="favicon.ico">
+  	<link rel="icon" href="favicon.ico">
 
   	<!-- Web Fonts -->
   	<link rel='stylesheet' type='text/css' href='//fonts.googleapis.com/css?family=Open+Sans:400,300,600&amp;subset=cyrillic,latin'>
@@ -437,7 +437,7 @@ style="z-index: 6">
 					我们还能通过切身经历，在学习和职业规划上为您提供量身定制的建议。</p>
 				</div>
 				<div class="img-center">
-					<img class="img-responsive" src="assets/img/mockup/boxedu123.png" alt="">
+					<img class="img-responsive" src="assets/img/mockup/BOXlogo1.png" alt="">
 				</div>
 			</div>
 		</div>
@@ -1124,7 +1124,7 @@ style="z-index: 6">
 								</div>
 							</div>
 
-							<p><button onclick="$("#sky-form3").addClass('submited');" type="submit" class="btn-u btn-brd btn-brd-hover btn-u-dark">Send Message</button></p>
+							<p><button onclick="addSubmit()" type="submit" class="btn-u btn-brd btn-brd-hover btn-u-dark">Send Message</button></p>
 						</fieldset>
 
 						<div class="message">
@@ -1176,6 +1176,12 @@ style="z-index: 6">
 	<script src="assets/js/plugins/style-switcher.js"></script>
 	<script src="assets/js/plugins/revolution-slider.js"></script>
 	<script src="assets/js/plugins/cube-portfolio/cube-portfolio-lightbox.js"></script>
+	<script>
+	function addSubmit() {
+	    document.getElementById("sky-form3").addClass("submited");
+	}
+
+	</script>
 	<script>
 		jQuery(document).ready(function() {
 			App.init();
