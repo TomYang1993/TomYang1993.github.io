@@ -62,9 +62,9 @@ var ContactForm = function () {
 	                    {
 	                        $('#sky-form3 button[type="submit"]').attr('disabled', true);
 	                    },
-	                    function()
+	                    success: function()
 	                    {
-	                        $("#sky-form3").addClass('submited');
+	                    $("#sky-form3").addClass('submited');
 	                    }
 	                });
 	            },
