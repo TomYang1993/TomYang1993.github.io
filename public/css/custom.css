@@ -32,44 +32,20 @@ video#bgvideo {
     top: 25px;
 }
 
-.blinking-cursor {
-    font-weight: 500;
-    font-size: 50px;
-    color: whitesmoke;
-    -webkit-animation: 1s blink step-end infinite;
-    -moz-animation: 1s blink step-end infinite;
-    -ms-animation: 1s blink step-end infinite;
-    -o-animation: 1s blink step-end infinite;
-    animation: 1s blink step-end infinite;
-}
-
-@keyframes blink {
-    from, to {
-        color: transparent;
-    }
-    50% {
-        color: whitesmoke;
+@media screen and (max-width: 1024px) {
+    #propoganda {
+        font-size: 42px;
     }
 }
 
-.stack {
-    display: block;
-}
-
-/*  Bouncing Animation */
-
-@keyframes bounce {
-    from {
-        transform: translate3d(0, 0, 0);
-    }
-
-    to {
-        transform: translate3d(0, -10px, 0);
+@media screen and (max-width: 876px) {
+    #propoganda {
+        font-size: 36px;
     }
 }
 
-.bouncing {
-    animation                : bounce 0.4s;
-    animation-iteration-count: infinite;
-    animation-direction      : alternate;
+@media screen and (max-width: 600px) {
+    #propoganda {
+        font-size: 30px;
+    }
 }
