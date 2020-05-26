@@ -11,6 +11,8 @@ video#bgvideo {
     height: 600px;
     background: url(../images/gray-surface.jpg) no-repeat;
     background-size: cover;
+    display: flex;
+    justify-content: space-between;
 }
 
 #java-background {
@@ -75,4 +77,22 @@ video#bgvideo {
     #propoganda {
         font-size: 30px;
     }
+}
+
+.project-section {
+    margin: 100px 50px 0px 100px;
+}
+
+.project-description {
+    color: whitesmoke;
+    max-width: 200px;
+    font-size: 1.5rem;
+}
+
+.project-title {
+    width: 200px;
+    height: 200px;
+    border: 10px solid whitesmoke;
+    color: floralwhite;
+    font-size: 2rem;
 }
