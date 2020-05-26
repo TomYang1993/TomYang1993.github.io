@@ -51,3 +51,25 @@ video#bgvideo {
         color: whitesmoke;
     }
 }
+
+.stack {
+    display: block;
+}
+
+/*  Bouncing Animation */
+
+@keyframes bounce {
+    from {
+        transform: translate3d(0, 0, 0);
+    }
+
+    to {
+        transform: translate3d(0, -10px, 0);
+    }
+}
+
+.bouncing {
+    animation                : bounce 0.4s;
+    animation-iteration-count: infinite;
+    animation-direction      : alternate;
+}
